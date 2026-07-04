@@ -24,19 +24,22 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="140">
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" /><br><b>Python</b>
     </td>
-    <td align="center" width="140">
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" /><br><b>Bash</b>
     </td>
-    <td align="center" width="140">
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" /><br><b>Go</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /><br><b>C++</b>
+    </td>
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" /><br><b>Linux</b>
     </td>
-    <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=arch" height="40" alt="Arch Linux" /><br><b>Arch OS</b>
-    </td>
-    <td align="center" width="140">
+    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="Databases" /><br><b>SQL / DB</b>
     </td>
   </tr>
