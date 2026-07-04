@@ -16,7 +16,7 @@
 </div>
 
 ## 🌌 About Us
-**Sentry Point Cyber Intelligence** is a Ukrainian-based initiative focused on cyber threat research, blue teaming operations, secure software development, and server infrastructure automation. We build custom tools for system monitoring, malicious code sanitization, and community infrastructure hardening.
+**Sentry Point Cyber Intelligence** is a Ukrainian-based initiative focused on cyber threat research, blue teaming operations, secure software development, and server infrastructure automation. We build custom tools for system monitoring, malicious code sanitation, and community infrastructure hardening.
 
 ---
 
@@ -24,23 +24,20 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" /><br><b>Python</b>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" /><br><b>Bash</b>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" /><br><b>Linux</b>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=arch" height="40" alt="Arch Linux" /><br><b>Arch OS</b>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="140">
       <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="Databases" /><br><b>SQL / DB</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" /><br><b>Blender 3D</b>
     </td>
   </tr>
 </table>
