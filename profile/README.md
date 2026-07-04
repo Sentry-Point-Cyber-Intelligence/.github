@@ -11,19 +11,22 @@
 
 ---
 
-> *"Securing infrastructure, analyzing threats, automating defense."*
+> *"Analyzing threats, discovering vulnerabilities, researching cyber defense."*
 
 </div>
 
 ## 🌌 About Us
-**Sentry Point Cyber Intelligence** is a Ukrainian-based initiative focused on cyber threat research, blue teaming operations, secure software development, and server infrastructure automation. We build custom tools for system monitoring, malicious code sanitation, and community infrastructure hardening.
+**Sentry Point Cyber Intelligence** is a Ukrainian-based group dedicated to vulnerability research, cyber threat intelligence, and digital asset defense. Our mission is to investigate security flaws, audit infrastructure, and develop tactical automation scripts to secure networks and community resources against emerging cyber threats.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <table align="center">
   <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" /><br><b>Linux</b>
+    </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" /><br><b>Python</b>
     </td>
@@ -34,12 +37,6 @@
       <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" /><br><b>Go</b>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" /><br><b>C++</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" /><br><b>Linux</b>
-    </td>
-    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="Databases" /><br><b>SQL / DB</b>
     </td>
   </tr>
@@ -47,12 +44,12 @@
 
 ---
 
-## 🛡️ Core Focus
+## 🛡️ Core Operations & Research
 
-* 📊 **Blue Teaming & Log Analysis:** Monitoring system logs, detecting anomalies, and identifying attack patterns using custom scripting and deep analysis tools.
-* 🤖 **Automation & Security Bots:** Developing modular infrastructure management solutions using Python (aiogram), alongside automated scripts for backend validation and file sanitation.
-* 🖥️ **Hardening & Infrastructure:** Optimizing and securing Linux servers, setting up automated backup routines, and auditing web resource configurations (XenForo / Webmin).
-* ⚙️ **Reverse Engineering:** Analyzing application internals, identifying hidden features, and uncovering potential security vulnerabilities or malicious logic.
+* 🔍 **Vulnerability Research & Assessment:** Proactively identifying security flaws, auditing misconfigurations, and investigating zero-day vectors within web environments and network nodes.
+* 🌐 **Cyber Intelligence & OSINT:** Monitoring threat landscapes, analyzing malicious infrastructure, and conducting deep-dive research into active cyber threat groups.
+* 📊 **Defensive Blue Teaming:** Hardening infrastructure, monitoring system logs, analyzing traffic patterns, and strengthening access controls for critical assets.
+* ⚙️ **Security Automation & Scripting:** Developing internal scripts (Python/Bash) for security scanning, malware log analysis, and automated threat mitigation.
 
 ---
 
@@ -64,6 +61,6 @@
 
 ---
 
-## 📬 Contact & Contributions
+## 📬 Contact & Bug Bounty
 * **Location:** Ukraine 🇺🇦
-* **Projects:** Explore our public repositories. If you discover a security vulnerability within our tools, please open a secure issue or refer to our security policy.
+* **Inquiries:** If you want to cooperate on threat intelligence or share data regarding system vulnerabilities, please feel free to reach out via GitHub Issues or our verified channels.
