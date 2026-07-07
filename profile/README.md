@@ -2,7 +2,7 @@
 
 # Sentry Point Cyber Intelligence
 
-<img src="https://github.com/Sentry-Point-Cyber-Intelligence/.github/blob/main/profile/logo.png" width="140" alt="Sentry Point Corporate Logo">
+<img src="https://github.com/Sentry-Point-Cyber-Intelligence.png" width="140" alt="Sentry Point Corporate Logo">
 
 ### *Corporate Threat Intelligence • Advanced Infrastructure Research • Cyber Defense Operations*
 
