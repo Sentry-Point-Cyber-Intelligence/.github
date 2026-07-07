@@ -1,66 +1,50 @@
 <div align="center">
 
-<!-- Logo (Automatically pulls your organization's GitHub avatar) -->
-<img src="https://github.com/Sentry-Point-Cyber-Intelligence.png" width="150" height="150" alt="Sentry Point Logo" style="border-radius: 50%;"/>
-
 # Sentry Point Cyber Intelligence
 
-[![Focus](https://img.shields.io/badge/Focus-Cyber%20Security%20%7C%20Intelligence-black?style=for-the-badge&logo=target&logoColor=red)](#)
-[![Location](https://img.shields.io/badge/Location-Ukraine-blue?style=for-the-badge&logo=mapmarker&logoColor=yellow)](#)
-[![Status](https://img.shields.io/badge/Status-Active%20%7C%20Operational-green?style=for-the-badge)](#)
+<img src="https://github.com/Sentry-Point-Cyber-Intelligence/.github/blob/main/profile/logo.png" width="140" alt="Sentry Point Corporate Logo">
+
+### *Corporate Threat Intelligence • Advanced Infrastructure Research • Cyber Defense Operations*
+
+[![Focus - Threat Intelligence](https://img.shields.io/badge/OPERATIONS-THREAT__INTELLIGENCE-red?style=for-the-badge)](https://github.com/Sentry-Point-Cyber-Intelligence)
+[![Location - Ukraine](https://img.shields.io/badge/REGION-CEE__UKRAINE-blue?style=for-the-badge)](https://github.com/Sentry-Point-Cyber-Intelligence)
+[![Status - Active](https://img.shields.io/badge/STATUS-OPERATIONAL-brightgreen?style=for-the-badge)](https://github.com/Sentry-Point-Cyber-Intelligence)
 
 ---
-
-> *"Analyzing threats, discovering vulnerabilities, researching cyber defense."*
 
 </div>
 
-## 🌌 About Us
-**Sentry Point Cyber Intelligence** is a Ukrainian-based group dedicated to vulnerability research, cyber threat intelligence, and digital asset defense. Our mission is to investigate security flaws, audit infrastructure, and develop tactical automation scripts to secure networks and community resources against emerging cyber threats.
+## Executive Summary
+**Sentry Point Cyber Intelligence** is an independent, non-governmental cyber research community specializing in open-source intelligence (OSINT), adversary infrastructure tracking, and cyber threat landscape analysis. 
+
+Our mission is to proactively identify, document, and neutralize emerging digital threats through comprehensive analytical mapping, phishing infrastructure disclosure, and defensive automation.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Strategic Capabilities & Core Operations
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" /><br><b>Linux</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" /><br><b>Python</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" /><br><b>Bash</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" /><br><b>Go</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="Databases" /><br><b>SQL / DB</b>
-    </td>
-  </tr>
-</table>
+* 📡 **Threat Intelligence & Reconnaissance:** Conducting deep-dive investigations into active cyber threat groups, mapping malicious command-and-control (C2) nodes, and tracking digital footprints of threat actors.
+* 🛡️ **Adversary Infrastructure Mapping:** Analyzing, decanting, and visualizing complex adversarial networks, subdomains, and malicious hosting providers to intercept phishing campaigns.
+* 🔬 **Vulnerability & Vector Research:** Auditing public-facing web environments, identifying systemic misconfigurations, and researching attack surfaces across modern network nodes.
+* 🤖 **Defensive Automation:** Developing internal proprietary scripts and tools for continuous data breach monitoring, tactical intelligence gathering, and log analysis.
 
 ---
 
-## 🛡️ Core Operations & Research
-
-* 🔍 **Vulnerability Research & Assessment:** Proactively identifying security flaws, auditing misconfigurations, and investigating zero-day vectors within web environments and network nodes.
-* 🌐 **Cyber Intelligence & OSINT:** Monitoring threat landscapes, analyzing malicious infrastructure, and conducting deep-dive research into active cyber threat groups.
-* 📊 **Defensive Blue Teaming:** Hardening infrastructure, monitoring system logs, analyzing traffic patterns, and strengthening access controls for critical assets.
-* ⚙️ **Security Automation & Scripting:** Developing internal scripts (Python/Bash) for security scanning, malware log analysis, and automated threat mitigation.
+## Intelligence & Research Hub
+All validated findings, indicators of compromise (IoCs), and formal analytical reports are aggregated and peer-reviewed within our specialized research repository:
+* 📁 [**cyber-intelligence-research**](https://github.com/Sentry-Point-Cyber-Intelligence/cyber-intelligence-research) — Strategic Cyber Intelligence Reports, Incident Write-ups, and Infrastructure Visualizations.
 
 ---
 
-## 📈 Organization Stats
+## Compliance, Ethics & Disclaimer
+*Sentry Point Cyber Intelligence operates strictly within the boundaries of applicable international legal frameworks and Ukrainian cyber regulations. All activities are non-intrusive, utilizing exclusively Open-Source Intelligence (OSINT) and publicly accessible telemetry. The community does not engage in offensive cyber operations, unauthorized network intrusions, or the dissemination of Personally Identifiable Information (PII). All published material serves solely educational and defensive purposes to harden global infrastructure.*
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/org?username=Sentry-Point-Cyber-Intelligence&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Sentry Point Stats" />
+
+### Joint Operations & Contribution
+For research collaboration, intelligence sharing, or peer review, submit your findings via formal **Pull Requests** to the respective repositories.
+
+**© 2026 Sentry Point Cyber Intelligence • All Rights Reserved • Operational & Protected**
 </div>
-
----
-
-## 📬 Contact & Bug Bounty
-* **Location:** Ukraine 🇺🇦
-* **Inquiries:** If you want to cooperate on threat intelligence or share data regarding system vulnerabilities, please feel free to reach out via GitHub Issues or our verified channels.
