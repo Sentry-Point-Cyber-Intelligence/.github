@@ -1,98 +1,139 @@
-# Community Security Policy & Operational Compliance Framework
+# Corporate Security Policy, Operational OPSEC, and Full-Spectrum Cyber Defense Compliance Framework
 
-Welcome to the official **Sentry Point Cyber Intelligence** Security, Operational OPSEC, and Regulatory Compliance portal. As an independent, defensive cyber research community, we enforce strict protocols regarding global information security, data integrity, and cross-border legal frameworks.
+Welcome to the official global **Sentry Point Cyber Intelligence** Security Operations, Operational Security (OPSEC), and Regulatory Compliance Framework. This document serves as the absolute, non-negotiable protocol governing all activities, research vectors, code development, telemetry aggregation, and infrastructural defense mechanisms enforced by this enterprise. 
 
----
-
-## 1. Operational Security & Threat Landscape (OPSEC)
-Sentry Point Cyber Intelligence operates strictly as a defensive, analytical research entity. Our primary objective is the systemic mitigation of cyber risks through the public disclosure of adversarial telemetry, infrastructure mapping, and technical incident analysis.
-
-* **Infrastructure Boundary:** Our research methodologies are strictly non-intrusive and exclusively limited to Open-Source Intelligence (OSINT) and publicly accessible network datasets. We do not engage in active network penetrations, credential harvesting, or unauthorized system intrusions.
-* **Telemetry Validation:** All indicators of compromise (IoCs), hostnames, domain structures, and network nodes published within our repositories undergo rigorous, multi-layer analytical validation prior to public release.
+As a highly specialized, independent cyber research, systems engineering, and defensive intelligence structure, we maintain uncompromising standards regarding cryptographic validation, international legal compliance, and network perimeter sovereignty.
 
 ---
 
-## 2. Invalid Claims & Frivolous Legal Threats Policy
-We maintain a zero-tolerance policy toward extrajudicial harassment, unsubstantiated takedown demands, or intimidation tactics initiated by external entities, corporations, or private individuals.
+## 1. Operational Scope & Full-Spectrum Cybersecurity Matrix (OPSEC)
+Sentry Point Cyber Intelligence operates as an enterprise-grade, multi-disciplinary defensive cybersecurity organization. Our operations are not limited to passive observations; they encapsulate the entire defensive and analytical lifecycle of modern digital ecosystems. The core operational matrix is divided into the following specialized tactical divisions:
 
-* **Legal Nullity:** Any informal complaints, personal threats, or automated legal demands regarding legally sourced, publicly available open-source datasets (OSINT) will be classified as legally void and structurally non-actionable.
-* **Regulatory Exemption:** Sentry Point does not collect, process, or disseminate private Personally Identifiable Information (PII) without verified security or legal justifications. Assertions of privacy violations regarding public routing infrastructure, malicious command-and-control (C2) servers, or verified phishing assets are structurally invalid.
-* **Countermeasures:** Hostile, malicious, or fraudulent interference with our research operations will be thoroughly documented, cataloged as adversarial threat behavior, and exposed publicly within our live incident logs.
+* **Digital Forensics & Incident Response (DFIR):** Advanced host and network forensics. We conduct live-memory analysis, deep packet inspection (DPI), log-rotation file auditing (syslog, auth.log, Windows Event Logs), and automated timeline reconstruction to isolate, analyze, and document post-compromise activity and advanced persistence mechanisms.
+* **Reverse Engineering & Malware Analysis:** Statical and dynamical dissection of compiled malicious binaries, obfuscated scripts, and custom threat-actor payloads. This infrastructure actively profiles execution paths, decrypts embedded cryptographic strings, and extracts hardcoded command-and-control (C2) configuration matrices within isolated sandboxed environments.
+* **Infrastructure Engineering & Hardening:** Hardening enterprise Linux distributions (specifically Arch Linux, Debian, and hardened kernel environments), deploying advanced kernel-level security modules (AppArmor, SELinux), and building immutable infrastructure configurations.
+* **Network & Protocol Auditing:** Deep-dive analysis of core routing protocols, border control structures (BGP, OSPF), DNSSEC configurations, and cryptographic transport layers (TLS 1.3). We actively research misconfigurations across routers, firewalls, and modern network nodes to eliminate exposure.
+* **Threat Intelligence & Tactical OSINT:** Cross-referencing passive DNS replication data, dark-web telemetry streams, and metadata correlations to track, profile, and index active threat groups, advanced persistent threats (APTs), and distributed phishing syndicates.
+* **Defensive Software Engineering:** Designing and deploying resilient back-end systems, specialized multi-threaded data mining tools, secure API integrations, and internal cryptographic automation tools primarily written in C++, Python, and Shell script.
 
----
-
-## 3. Vulnerability Disclosure & Report Handling
-If you represent an organization or operate as an independent researcher and believe you have identified a legitimate operational issue or a data misattribution within our public repositories, you must follow our strict reporting guidelines:
-
-### 3.1 Report Submission Criteria
-To initiate a formal review, your request must be submitted with the following verified technical telemetry:
-1. **Identification:** Full, verifiable identity or official organizational legal representation.
-2. **Technical Evidence:** Exact cryptographic hashes, URLs, network packets, or repository lines being contested.
-3. **Legal/Technical Basis:** Clear documentation proving that the referenced telemetry violates applicable regulations or presents an immediate, non-adversarial security risk to legitimate assets.
-
-### 3.2 Evaluation Protocol
-* **Review Window:** Upon receiving a verified, structured request, our internal compliance team will analyze the submission within **14 business days**.
-* **Actionable Results:** If a misattribution or legitimate security risk is confirmed, corrective updates or data redactions will be pushed immediately. Anonymous, threatening, or unstructured messages will be dropped automatically by our firewall systems without review.
+All research, debugging, and operational tracing are performed within strict boundaries. We explicitly prohibit unauthorized intrusive testing, illegal network penetration, or credential harvesting against non-consenting networks.
 
 ---
 
-## 4. Safe Harbor for Security Researchers
-We believe that transparency, open science, and collaborative intelligence are critical to global cyber defense. Sentry Point establishes a "Safe Harbor" protocol for all independent analysts contributing to our research ecosystem:
-* **Non-Retaliation:** We will not initiate legal action or authorize third-party complaints against individuals who discover and report technical vulnerabilities within our own research infrastructure in good faith.
-* **Coordination First:** Contributors are required to provide technical zero-day telemetry directly to our internal review team prior to any public exploitation or external distribution.
+## 2. Telemetry Ingestion, Threat Hunting & Data Verification Standards
+Data integrity is the baseline requirement for operational capability. Sentry Point enforces a rigorous, multi-layered telemetry ingestion and verification pipeline before any indicator, script, or analysis is integrated into our operational or public repositories.
+
+* **Multi-Source Correlation:** No Indicator of Compromise (IoC), malicious IP address, or command node is cataloged based on a single data stream. Telemetry must be verified across independent network vantage points, active passive-DNS records, and behavioral heuristic indicators.
+* **Signature Cleansing:** All detection patterns, whether written in YARA, Sigma, or Snort rule formats, undergo false-positive minimization loops against massive whitelists of legitimate enterprise software, operating system components, and standard network routing behaviors.
+* **Provenance Logging:** Every dataset ingested by our threat hunting teams receives an immutable internal provenance tag detailing ingest time, cryptographic block status, and data source certainty matrices, preventing the poisoning of our intelligence pipelines.
 
 ---
 
-## 5. Zero-Tolerance for Active Exploitation & Malicious Weaponization
-* **Defensive Boundary:** All analytical materials, detection signatures, indicators, and code published by Sentry Point are developed strictly for system hardening, educational verification, and structural indicator mapping.
-* **Liability Waiver:** The community holds zero liability for the misuse, adaptation, or weaponization of published telemetry by external threat actors or third-party entities. We strictly prohibit the utilization of our public intelligence for offensive testing without verified cross-organizational authorization.
+## 3. Invalid Claims, Hostile Takedowns & Frivolous Legal Threats Policy
+We maintain a zero-tolerance, absolute non-compliance policy toward extrajudicial harassment, fraudulent Digital Millennium Copyright Act (DMCA) filings, unsubstantiated data-removal demands, or legal intimidation tactics initiated by external entities, defensive-evasive corporations, or proxies acting on behalf of malicious threat actors.
+
+* **Structural Legal Nullity:** Any informal complaints, cease-and-desist letters, or automated legal notices targeting legally sourced, publicly broadcasted routing metadata, infrastructure configuration logs, exposed server banners, or open-source threat intelligence (OSINT) datasets are classified as legally void, invalid, and non-actionable.
+* **Privacy Regulation Exemption:** Sentry Point explicitly rejects claims of privacy or data-protection violations (such as GDPR or CCPA) regarding the tracking, cataloging, and exposing of malicious command-and-control (C2) nodes, open proxy systems, compromised hosting networks, or infrastructure actively executing phishing or malware delivery operations. Public routing paths and adversarial server configurations do not constitute private Personally Identifiable Information (PII).
+* **Defensive Escalation Strategy:** Hostile or fraudulent legal maneuvers aimed at obstructing our legitimate analytical operations or masking system vulnerabilities will be fully archived, stripped of metadata confidentiality, and permanently exposed within our public repositories as a public case study on adversarial interference.
 
 ---
 
-## 6. Automated Scraping & Network Telemetry Harvesters
-Sentry Point Cyber Intelligence strictly regulates inbound network traffic to our public infrastructure, documentation nodes, and research repositories.
-* **Malicious Crawling:** The utilization of aggressive automated scraping utilities, mirror scripts, or data-mining bots to harvest our intelligence reports for commercial resale or adversarial profiling is explicitly prohibited.
-* **Rate-Limiting Protocols:** We reserve the right to deploy automated firewalls, log-rotation triggers, and network rate-limiting to neutralize non-human behavioral signatures that threaten repository availability.
+## 4. Vulnerability Disclosure, Infrastructure Patching & Escalation Guidelines
+If you represent an enterprise organization, a government agency, or operate as an independent researcher and believe you have identified a legitimate operational vulnerability within our infrastructure, or a telemetry misattribution within our active repositories, you are required to report it immediately through our formal disclosure protocol.
+
+### 4.1 Strict Submission Criteria
+To trigger an official review by our compliance and systems engineering teams, your submission must be fully structured and include the following validated technical data:
+1. **Verifiable Identification:** Official legal identity, organizational representation, and PGP/SSH public key data for secure end-to-end communication routing.
+2. **Technical Telemetry Proof:** Exact cryptographic file hashes (SHA-256), memory dumps, PCAP network traffic logs, specific timestamps, or exact code lines in question.
+3. **Vulnerability Impact Matrix:** Clear documentation outlining the architectural impact of the reported item, formatted according to the Common Vulnerability Scoring System (CVSS v3.1/v4.0).
+
+### 4.2 Analytical Evaluation Protocol
+* **Review and Triaging Window:** Upon receiving a structured, verified submission, our internal security engineering team will acknowledge and begin automated and manual triaging within **14 business days**.
+* **Remediation Action:** If a vulnerability or misattribution is confirmed, hotfixes, cryptographic patches, or verified data redactions will be deployed immediately to our production environments. Anonymous, unstructured, vague, or threatening communications will be dropped at our firewall perimeter without review.
 
 ---
 
-## 7. Digital Asset Integrity & Provenance Tracking
-To maintain the highest standards of data integrity in Threat Intelligence, all published artifacts, Markdown documents, and Indicators of Compromise (IoCs) are monitored for unauthorized tampering.
-* **Cryptographic Signatures:** Whenever technically feasible, formal releases and research updates are validated through cryptographic commit signatures (GPG/SSH). Any unverified modifications or external pull requests that lack clear provenance will be rejected automatically.
-* **Immutable Intelligence:** Once an official cyber intelligence report is validated and archived within our research hub, it is considered immutable unless legitimate counter-telemetry is submitted through the formal disclosure channel outlined in Section 3.
+## 5. Safe Harbor Protocol for Security Researchers & Contributors
+We fundamentally believe that transparency, open-source security science, and collective peer-review are critical to hardening global digital infrastructure. Sentry Point establishes an absolute "Safe Harbor" protocol for all independent analysts, developers, and engineers interacting with our ecosystem:
+* **Legal Immunity Assurance:** We will not initiate, authorize, or support legal actions, civil lawsuits, or law enforcement referrals against individuals who discover and report technical vulnerabilities within our own internal scripts, web endpoints, or DevOps infrastructure in good faith.
+* **Coordinated Disclosure Requirement:** To qualify for Safe Harbor status, researchers must submit their findings directly to our triage team prior to any public exploitation, external disclosure, or third-party distribution. We demand that you give us a reasonable window to remediate the architecture.
 
 ---
 
-## 8. Global Geopolitical Compliance & Sanctions Alignment
-As an independent research entity rooted in Ukraine, Sentry Point strictly manages its digital touchpoints to align with global security frameworks and cybersecurity sanctions lists.
-* **Adversarial Restrictions:** Our intelligence, data breach tracking materials, and analytical tools are strictly prohibited from being utilized, integrated, or cross-referenced by entities associated with state-sponsored cyberespionage groups, Advanced Persistent Threats (APTs), or sanctioned foreign threat actors.
-* **Universal Jurisdiction:** By accessing, forking, or cloning any dataset within the Sentry Point ecosystem, external users acknowledge that any legal disputes, jurisdiction claims, or compliance validations fall exclusively under the operational review of our compliance team and the cyber regulations of Ukraine.
+## 6. Zero-Tolerance for Active Exploitation, Tampering & Malicious Weaponization
+* **Defensive Engineering Boundary:** All analytical write-ups, configurations, automation code, system deployment templates, and detection signatures published across Sentry Point domains are developed exclusively for system hardening, educational validation, log analysis training, and structural infrastructure mapping.
+* **Absolute Liability Waiver:** This organization, its core contributors, and associated teams hold zero liability, accountability, or legal responsibility for the unauthorized misuse, adjustment, or offensive weaponization of our code, scripts, or network telemetry by external threat actors, third-party entities, or corporate competitors. 
+* **Prohibition of Offensive Testing:** The utilization of our intelligence, code bases, or configurations for offensive scanning, live unauthorized penetration testing, or exploitation campaigns without express, written cross-organizational authorization is explicitly prohibited.
 
 ---
 
-## 9. Escalation Protocol for External Threats, Harassment, and Corporate Intimidation
-Any attempt to obstruct our legitimate analytical operations, threaten our contributors, or initiate coercive actions will trigger immediate, automated defensive and legal countermeasures.
+## 7. Cloud Security, Containerization & Virtualization Hardening
+Modern cyber defense relies heavily on abstracted compute environments. Sentry Point actively implements and audits strict security controls across all containerized, virtualized, and cloud-native nodes utilized within our development pipelines and scanning grids.
 
-### 9.1 Counter-Litigation and Legal Prosecution
-* **Mandatory Legal Escalation:** In the event of unsubstantiated legal threats, personal harassment, or coercive actions initiated by corporations, private entities, or external actors, Sentry Point reserves the right to immediately forward all digital telemetry to our legal counsel to initiate counter-litigation.
-* **Damages and Liability:** We will pursue full civil and criminal liability for corporate defamation, tortious interference, and unlawful intimidation. Hostile actors will be held financially accountable for all associated legal fees, operational disruptions, and infrastructural damages.
+* **Container Segregation:** All automated threat-hunting parsers, scraping routines, and malware execution tools run inside isolated, unprivileged containers (Docker, Podman, or systemd-nspawn micro-VMs). Root privileges are stripped, and seccomp profiles are enforced to limit system calls.
+* **Orchestration Security:** Kubernetes and cluster management configurations utilize strict NetworkPolicies to isolate traffic. Secrets, API keys, and cryptographic tokens are never hardcoded; they are dynamically injected via encrypted environment variables and secret management vaults.
+* **Immutable Infrastructure Base:** Cloud compute instances are treated as transient assets. System images are built using verified infrastructure-as-code (IaC) architectures, with automatic log forwarding deployed to standalone, write-once-read-many (WORM) storage systems to ensure absolute forensic integrity.
 
-### 9.2 Law Enforcement & Regulatory Referral
-* **Criminal Categorization:** Threats of physical harm, cyber-attacks (DDoS, doxxing), or extortion directed at Sentry Point personnel are classified as cybercriminal behavior.
-* **Institutional Escalation:** All adversarial correspondence, including source IP addresses, email headers, and metadata, will be systematically preserved and forwarded directly to the Cyberpolice Department of the National Police of Ukraine, international cybercrime units, and relevant state security organs for formal investigation and prosecution.
+---
 
-### 9.3 Public Exposure Strategy (The Transparency Protocol)
-* **Adversarial Archiving:** Sentry Point operates under a strict transparency framework. Any hostile, threatening, or legally invalid demand letters sent by corporate legal departments or individual actors will be fully declassified.
-* **Public Disclosure:** These materials, along with the identities of the initiating parties, will be published permanently within our open-source repositories as a dedicated public "Threat Actor Dossier" to serve as a public warning and permanent case study in adversarial behavior.
+## 8. Network Perimeter Defenses, Automated Rate-Limiting & Scraping Protections
+Sentry Point Cyber Intelligence strictly regulates, monitors, and filters all inbound and outbound network traffic interacting with our documentation servers, active code environments, and raw data grids.
 
-### 9.4 Network De-anonymization & Attribution Warning
-* **Analytical Inevitability:** Before establishing hostile communications, sending coercive demands, or initiating unauthorized network scans against Sentry Point infrastructure, target actors must recognize the core competency of this entity. We specialize in digital footprint analysis, passive DNS replication, and complex metadata correlation.
-* **The Attribution Matrix:** Any interactive touchpoint with our ecosystem automatically aggregates inbound routing telemetry, canvas fingerprints, and network headers. Simply put: if you compromise or threaten our perimeter, our threat intelligence analysts will systematically trace, isolate, and uncover your operational identity. We will find you. ☺️
+* **Malicious Crawling Mitigation:** The utilization of aggressive automated scraping utilities, mirror scripts, or data-mining spiders to harvest our intelligence data, script frameworks, or log definitions for commercial resale, deep-learning training without consent, or adversarial profiling is explicitly prohibited.
+* **Dynamic Firewalls & Intrusion Prevention:** Our perimeter nodes utilize advanced packet filtering (iptables/nftables) combined with heuristic log analysis tools (Fail2Ban, custom eBPF network filters). Behavioral anomalies, such as brute-force directory traversal, multi-threaded API flooding, or unauthorized port scanning, trigger immediate, automated firewall blocks at the network layer.
+* **Proactive Deflection:** We reserve the right to route suspicious or malicious traffic into decoy environments (honeypots) or inject randomized, high-density garbage telemetry into adversarial collection bots to neutralize tracking attempts.
+
+---
+
+## 9. Digital Asset Integrity, Code Provenance & GitOps Version Control
+To maintain the highest tier of data and software provenance, all code, automation templates, markdown documents, and Indicators of Compromise (IoCs) within our ecosystem are tracked under strict version control protocols.
+
+* **Cryptographic Signatures:** Every commit, push, and release made by core developers must be signed using verified GPG or SSH cryptographic keys. Unsigned commits, or pull requests from unverified external accounts lacking proper cryptographic provenance, will be systematically blocked and deleted by our CI/CD pipelines.
+* **Immutable Branch Protections:** Main development branches are strictly protected. Code injection, force-push maneuvers, or history rewriting are programmatically impossible. Every single change requires peer-review validation and must pass automated syntax, security linter, and compilation tests.
+* **Tamper Detection Auditing:** Our code environments run continuous file-integrity monitoring (FIM) routines. If any active configuration file deviates from its known cryptographic baseline state without an accompanying verified commit signature, the affected node instantly isolates itself from the network and alerts our operations team.
+
+---
+
+## 10. Global Geopolitical Compliance & Sanctions Infrastructure Alignment
+As an enterprise-grade cybersecurity entity deeply rooted in Ukraine, Sentry Point structurally aligns its development cycles, intelligence routing, and platform availability with global Western security frameworks, democratic alliance sanctions, and national security directives.
+
+* **Adversarial Group Restrictions:** Our source code, infrastructure automation templates, log parsers, and tactical intelligence data are strictly prohibited from being cloned, mirrored, integrated, or utilized by entities, organizations, or individuals associated with state-sponsored cyberespionage groups, advanced persistent threats (APTs), or sanctioned foreign threat actor states.
+* **Universal Jurisdiction Enforcement:** By accessing, downloading, forking, or cloning any dataset, code block, or configuration within the Sentry Point perimeter, external users explicitly acknowledge that any legal claims, structural compliance disputes, or jurisdictional validations fall under the exclusive operational review of our compliance team and the national cyber regulations of Ukraine.
+
+---
+
+## 11. DevOps Pipeline Security & Automated Source Code Auditing
+Software security must be verified during development. Sentry Point implements a comprehensive DevSecOps workflow to ensure that all internal and public tooling meets industrial safety requirements before deployment.
+
+* **Static & Dynamic Analysis (SAST/DAST):** Our automated GitHub Actions and internal CI/CD pipelines run continuous security scanners on every code push. Code is checked for memory management errors, buffer overflow vectors, insecure pointer usage (specifically in C++ frameworks), and hardcoded credentials.
+* **Dependency Vulnerability Scanning:** Every third-party library, crate, package, or script dependency is monitored via automated tracking tools. If a dependency introduces a known vulnerability (CVE), the build pipeline halts automatically, blocking the integration until a secure patch or alternative library is provided.
+* **Secure Compilation Hardening:** Production binaries are compiled using advanced compiler hardening flags (`-fstack-protector-all`, `-D_FORTIFY_SOURCE=2`, `Wl,-z,relro,-z,now`). This eliminates common exploitation paths like stack smashing or return-to-libc attacks on the host system.
+
+---
+
+## 12. Tactical Escalation Protocol for External Threats, Corporate Intimidation & Infrastructure Attacks
+Any attempt by hostile corporations, compromised private security firms, state actors, or threat groups to disrupt our operations, degrade our digital assets, or intimidate our core contributors will trigger immediate, automated defensive, analytical, and legal countermeasures.
+
+### 12.1 Aggressive Counter-Litigation & Legal Prosecution
+* **Mandatory Legal Escalation:** Upon detection of fraudulent legal threats or corporate intimidation tactics, Sentry Point will transfer all associated network metadata, email headers, and corporate communications to our legal counsel to initiate immediate counter-litigation.
+* **Full Financial Accountability:** We will pursue civil and criminal liability for corporate defamation, tortious interference, and malicious harassment. Hostile actors will be held fully liable for all associated operational disruptions, infrastructural restoration costs, and corporate legal expenses.
+
+### 12.2 Law Enforcement & National Cyber Command Referral
+* **Criminal Incident Categorization:** Network floods (DDoS), unauthorized access attempts, infrastructure tampering, or physical intimidation targeting Sentry Point infrastructure or personnel are categorized as high-tier cybercrime.
+* **State-Level Institutional Escalation:** All telemetry associated with hostile activities will be systematically preserved, verified, and forwarded directly to the Cyberpolice Department of the National Police of Ukraine, state intelligence services, and global international crime units (Interpol, Europol, and allied cyber commands) for formal global prosecution.
+
+### 12.3 The Transparency Protocol (Public Exposure Strategy)
+* **Adversarial Archiving:** Sentry Point operates on an unyielding transparency model. Any hostile demand letter, threat, or invalid takedown request sent by external legal teams or threat groups will be instantly declassified.
+* **Public Disclosure Dossiers:** These documents, accompanied by fully researched corporate background profiles, IP address origins, domain metadata, and the names of the individuals initiating the hostile action, will be published permanently within a public "Threat Actor Dossier" in our repositories, serving as a warning to the cybersecurity community.
+
+### 12.4 Network De-anonymization & Advanced Attribution Matrix
+* **Analytical Inevitability Warning:** Before initiating hostile text routes, scanning our perimeters, or generating malicious traffic against our nodes, target actors must recognize the core analytical competency of this enterprise. We specialize in digital footprint analysis, passive routing tracking, deep network inspection, and metadata reconstruction.
+* **The Attribution Matrix:** Every digital touchpoint with our ecosystem automatically aggregates inbound BGP routing data, advanced TCP/IP stack fingerprints, SSH/TLS client handshakes, canvas telemetry, and browser configurations. If you compromise, scan, or threaten our perimeter, our threat intelligence analysts and system engineers will isolate, trace, and expose your true operational identity. We will locate you. ☺️
 
 ---
 
 <div align="center">
 
-**Sentry Point Cyber Intelligence Operations • Secure. Transparent. Non-Compliant to Threats.**
+**Sentry Point Cyber Intelligence Operations • Secure. Unified. Non-Compliant to Threats.**
 
 </div>
